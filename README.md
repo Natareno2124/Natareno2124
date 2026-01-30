@@ -26,45 +26,37 @@ Cuento con experiencia en el desarrollo de aplicaciones **web**, **sistemas de e
 
 ## 🛠️ Tecnologías y herramientas
 
-### Lenguajes de programación
-- Python  
-- Java  
-- JavaScript  
-- PHP  
-- SQL  
-- Prolog  
+### 🚀 Lenguajes de programación
+- 🐍 **Python** — Automatización, análisis léxico/sintáctico, lógica y backend  
+- ☕ **Java** — Aplicaciones robustas, simuladores y sistemas de escritorio  
+- 🟨 **JavaScript** — Interactividad, lógica frontend y backend  
+- 🐘 **PHP** — Desarrollo backend orientado a sistemas web  
+- 🗃️ **SQL** — Consultas avanzadas y diseño de bases de datos  
+- 🔍 **Prolog** — Programación lógica e inteligencia artificial  
 
-### Desarrollo web
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-- AJAX  
-- Tailwind CSS  
+### 🌐 Desarrollo Web
+- 🧱 **HTML5** — Estructura semántica moderna  
+- 🎨 **CSS3** — Diseño responsivo y animaciones  
+- ⚡ **Tailwind CSS** — UI rápida, limpia y escalable  
+- 🅱️ **Bootstrap** — Componentes responsivos listos para producción  
+- 🔄 **AJAX** — Comunicación asíncrona eficiente  
 
-### Bases de datos
-- MySQL  
-- Diseño relacional y normalización  
+### 🧠 Arquitectura y análisis
+- 🧩 **MVC (Modelo-Vista-Controlador)**  
+- 🧪 **Análisis Léxico, Sintáctico y Semántico**  
+- 🧠 **Programación Orientada a Objetos (POO)**  
+- 🧬 **Diseño de algoritmos y estructuras de datos**  
 
-### Otros
-- Git & GitHub  
-- Graphviz  
-- Arduino  
-- Visual Studio / VS Code  
-- Linux / Windows  
+### 🗄️ Bases de datos
+- 🐬 **MySQL** — Gestión y modelado relacional  
+- 📐 **Normalización y diseño lógico**  
 
----
-
-## 📂 Proyectos destacados
-
-- 🔹 **Analizador Léxico, Sintáctico y Semántico en Python**
-- 🔹 **Simulador de Máquina de Turing en Java**
-- 🔹 **Sistema de Inventarios con módulos administrativos**
-- 🔹 **Sistema web para gestión académica**
-- 🔹 **Proyectos IoT con Arduino y sensores**
-- 🔹 **Aplicaciones web con carrito de compras y facturación**
-
-> Cada proyecto está diseñado aplicando buenas prácticas, documentación clara y enfoque en el usuario.
+### ⚙️ Herramientas y entornos
+- 🔧 **Git & GitHub** — Control de versiones y colaboración  
+- 🖥️ **VS Code / Visual Studio** — Desarrollo profesional  
+- 🐧 **Linux / 🪟 Windows** — Entornos multiplataforma  
+- 📊 **Graphviz** — Visualización de estructuras y árboles  
+- 🔌 **Arduino** — Integración hardware–software  
 
 ---
 
