@@ -18,21 +18,18 @@ Cuento con experiencia en el desarrollo de aplicaciones **web**, **sistemas de e
 - 🌐 Desarrollo web (Frontend y Backend)
 - 🧠 Análisis léxico, sintáctico y semántico
 - 🗄️ Diseño y gestión de bases de datos
-- ⚙️ Arquitecturas de software (Monolítica, MVC)
+- ⚙️ Arquitecturas de software (MVC)
 - 📊 Automatización y sistemas de información
-- 🔌 Integración de hardware y software (Arduino)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### 🚀 Lenguajes de programación
-- 🐍 **Python** — Automatización, análisis léxico/sintáctico, lógica y backend  
-- ☕ **Java** — Aplicaciones robustas, simuladores y sistemas de escritorio  
 - 🟨 **JavaScript** — Interactividad, lógica frontend y backend  
 - 🐘 **PHP** — Desarrollo backend orientado a sistemas web  
 - 🗃️ **SQL** — Consultas avanzadas y diseño de bases de datos  
-- 🔍 **Prolog** — Programación lógica e inteligencia artificial  
+
 
 ### 🌐 Desarrollo Web
 - 🧱 **HTML5** — Estructura semántica moderna  
@@ -48,7 +45,7 @@ Cuento con experiencia en el desarrollo de aplicaciones **web**, **sistemas de e
 - 🧬 **Diseño de algoritmos y estructuras de datos**  
 
 ### 🗄️ Bases de datos
-- 🐬 **MySQL** — Gestión y modelado relacional  
+- 🐬 **MySQL y SQL Server** — Gestión y modelado relacional  
 - 📐 **Normalización y diseño lógico**  
 
 ### ⚙️ Herramientas y entornos
@@ -68,9 +65,7 @@ Desarrollarme como **ingeniero en sistemas altamente competente**, aportando sol
 
 ## 📫 Contacto
 
-- 📧 Correo: *(puedes agregarlo aquí)*
-- 💼 GitHub: *(tu enlace aquí)*
-- 🌐 Portafolio: *(opcional)*
+- 📧 Correo: knatarenon1@miumg.edu.gt
 
 ---
 
