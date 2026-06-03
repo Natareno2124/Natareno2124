@@ -36,7 +36,7 @@ Cuento con experiencia en el desarrollo de aplicaciones **web**, **sistemas de e
 - 🎨 **CSS3** — Diseño responsivo y animaciones  
 - ⚡ **Tailwind CSS** — UI rápida, limpia y escalable  
 - 🅱️ **Bootstrap** — Componentes responsivos listos para producción  
-- 🔄 **AJAX** — Comunicación asíncrona eficiente  
+
 
 ### 🧠 Arquitectura y análisis
 - 🧩 **MVC (Modelo-Vista-Controlador)**  
@@ -52,7 +52,6 @@ Cuento con experiencia en el desarrollo de aplicaciones **web**, **sistemas de e
 - 🔧 **Git & GitHub** — Control de versiones y colaboración  
 - 🖥️ **VS Code / Visual Studio** — Desarrollo profesional  
 - 🐧 **Linux / 🪟 Windows** — Entornos multiplataforma  
-- 📊 **Graphviz** — Visualización de estructuras y árboles  
 - 🔌 **Arduino** — Integración hardware–software  
 
 ---
@@ -65,7 +64,7 @@ Desarrollarme como **ingeniero en sistemas altamente competente**, aportando sol
 
 ## 📫 Contacto
 
-- 📧 Correo: knatarenon1@miumg.edu.gt
+- 📧 Correo: kevinnajera24@gmail.com
 
 ---
 
